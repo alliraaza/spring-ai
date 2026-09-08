@@ -1,0 +1,11 @@
+[submodule "ai-ollama"]
+    path = ai-ollama
+    url = https://github.com/alliraaza/ai-ollama.git
+
+[submodule "ai-rag-mem"]
+    path = ai-rag-mem
+    url = https://github.com/alliraaza/ai-rag-mem.git
+
+[submodule "ai-rag-pg"]
+    path = ai-rag-pg
+    url = https://github.com/alliraaza/ai-rag-pg.git
